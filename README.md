@@ -1,3 +1,6 @@
+## Disclaimer
+This portfolio is still being put together. Therefore, many items are only linked for now and not described in great detail.
+
 ## Contact: 
 * E-Mail: karol.bakas@fau.de
 * [Github](https://github.com/Idontker)
@@ -10,9 +13,9 @@
 
 
 ## Data Analysis with the dataset of the Titanic
-ToDo
+[Link to Kaggle Notebook](https://www.kaggle.com/athanassiosbakas/titanic-notebook-basic-analysis)
 ## AlgoKueche
-ToDo
+[Link to GitHub Repository](https://github.com/Idontker/AlgoKueche)
 ## Planed Projects
 ### Data Analytics: Corona Vaccinations
 **Data Collection**
@@ -27,6 +30,3 @@ ToDo
 * Are there corrolations between economical power of the countries and the Vaccinations process
 * Are there corrolations between the impact of the corona-pandemic and the Vaccinations process
 * If possible: create a regression model 
-
-
-### Data Analytics: 
