@@ -1,22 +1,22 @@
-## Disclaimer
+# Disclaimer
 This portfolio is still being put together. Therefore, many items are only linked for now and not described in great detail.
 
-## Contact: 
+# Contact: 
 * E-Mail: karol.bakas@fau.de
 * [Github](https://github.com/Idontker)
 
-## Content
+# Content
 1. [Data Analysis](https://www.kaggle.com/athanassiosbakas/titanic-notebook-basic-analysis)
     with the dataset of the Titanic
 2. [AlgoKueche](https://github.com/Idontker/AlgoKueche): a educational framework for learning basic algorith constructs in Java
 3. Planed Projects
 
 
-## Data Analysis with the dataset of the Titanic
+## 1. Data Analysis with the dataset of the Titanic
 [Link to Kaggle Notebook](https://www.kaggle.com/athanassiosbakas/titanic-notebook-basic-analysis)
-## AlgoKueche
+## 2. AlgoKueche
 [Link to GitHub Repository](https://github.com/Idontker/AlgoKueche)
-## Planed Projects
+## 3. Planned Projects
 ### Data Analytics: Corona Vaccinations
 **Data Collection**
 * Get vaccination data form https://ourworldindata.org/covid-vaccinations
