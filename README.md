@@ -17,7 +17,7 @@ This portfolio is still being put together. Therefore, many items are only linke
 ## 2. AlgoKueche
 [Link to GitHub Repository](https://github.com/Idontker/AlgoKueche)
 ## 3. Planned Projects
-### Data Analytics: Corona Vaccinations
+### Data Analysis: Corona Vaccinations
 **Data Collection**
 * Get vaccination data form https://ourworldindata.org/covid-vaccinations
 * Get data on economical power of the countries 
