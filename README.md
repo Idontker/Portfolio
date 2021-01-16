@@ -9,7 +9,7 @@ This portfolio is still being put together. Therefore, many items are only linke
 1. [Data Analysis](https://www.kaggle.com/athanassiosbakas/titanic-notebook-basic-analysis)
     with the dataset of the Titanic
 2. [AlgoKueche](https://github.com/Idontker/AlgoKueche): a educational framework for learning basic algorith constructs in Java
-3. Planed Projects
+3. Planned Projects
 
 
 ## 1. Data Analysis with the dataset of the Titanic
